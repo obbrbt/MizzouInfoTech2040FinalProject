@@ -1,0 +1,13 @@
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.exe
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.deps.json
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.runtimeconfig.json
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.runtimeconfig.dev.json
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.dll
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.pdb
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.AssemblyInfo.cs
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.dll
+C:\Users\PhantomMK1\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\netcoreapp2.1\win-x64\MusicPlaylistAnalyzer.pdb

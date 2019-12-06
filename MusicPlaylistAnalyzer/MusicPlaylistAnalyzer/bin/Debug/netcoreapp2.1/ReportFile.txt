@@ -1,0 +1,16 @@
+1. How many songs received 200 or more plays?
+3
+2. How many songs are in the playlist with the Genre of “Alternative”?
+39
+3. How many songs are in the playlist with the Genre of “Hip - Hop / Rap”?
+382
+4. What songs are in the playlist from the album “Welcome to the Fishbowl?”
+Name: Come Over, Artist: Kenny Chesney, Album: Welcome to the Fishbowl, Genre: Country, Size: 10055955, Time: 249, Year: 2012, Plays: 31
+Name: Feel like a Rock Star (with Tim McGraw), Artist: Kenny Chesney, Album: Welcome to the Fishbowl, Genre: Country, Size: 8419705, Time: 208, Year: 2012, Plays: 23
+Name: Welcome to the Fishbowl, Artist: Kenny Chesney, Album: Welcome to the Fishbowl, Genre: Country, Size: 8487591, Time: 210, Year: 2012, Plays: 10
+5. What are the songs in the playlist from before 1970 ?
+Name: "Hello, I Love You", Artist: The Doors, Album: The Very Best of The Doors, Genre: Rock, Size: 5438829, Time: 136, Year: 1968, Plays: 5
+6. What are the song names that are more than 85 characters long?
+"Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)"
+7. What is the longest song ? (longest in Time)
+Name: "Devil, Devil (Prelude: Princess of Darkness)", Artist: Eric Church, Album: The Outsiders, Genre: Country, Size: 19450468, Time: 482, Year: 2014, Plays: 37
